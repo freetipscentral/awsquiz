@@ -1,0 +1,8 @@
+.Question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+    color: blue;
+    border: 1px solid black;
+}
